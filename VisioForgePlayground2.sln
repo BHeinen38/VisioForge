@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisioForgePlayground2", "VisioForgePlayground2\VisioForgePlayground2.csproj", "{CD146FA4-703C-4621-A672-3D251B159636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD146FA4-703C-4621-A672-3D251B159636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD146FA4-703C-4621-A672-3D251B159636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD146FA4-703C-4621-A672-3D251B159636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD146FA4-703C-4621-A672-3D251B159636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E112D333-1605-45CD-B299-60D8DDF243E3}
+	EndGlobalSection
+EndGlobal
